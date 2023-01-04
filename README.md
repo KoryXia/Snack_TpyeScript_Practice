@@ -1,5 +1,3 @@
-[TOC]
-
 # TypeScript
 
 It's a superset of JavaScript and it adds optional static typing to the language. TS file can be compiled into any version of JavaScript.
