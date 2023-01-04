@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import GameControl from './Modules/GameControl';
 import ScorePanel from './Modules/ScorePanel'
-import { ref, onMounted } from 'vue';
+import { onMounted } from 'vue';
 onMounted(() => {
   const game = new GameControl();
 });
