@@ -80,7 +80,6 @@ onMounted(() => {
     width: 10px;
     height: 10px;
     position: absolute;
-    left: 100px;
     display: flex;
     flex-flow: row;
     flex-wrap: wrap;

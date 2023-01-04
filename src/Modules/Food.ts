@@ -2,6 +2,7 @@ class Food {
     element: HTMLElement;
     constructor() {
         this.element = document.getElementById("food")!;
+        this.changePosition();
     }
 
     get X() {
