@@ -1,3 +1,11 @@
+# Practice mini project (Snack)
+
+Using Vite + Vue.js + TypeScript
+
+**Code**: [Click me!](https://github.com/KoryXia/Snack_TpyeScript_Practice)
+
+**Demo**: [Click me!](https://koryxia.github.io/Snack_TpyeScript_Practice/)
+
 # TypeScript
 
 It's a superset of JavaScript and it adds optional static typing to the language. TS file can be compiled into any version of JavaScript.
@@ -409,14 +417,6 @@ const fn = <T>(x: T): T=> {
 fn(10);// auto specify type
 fn<number>(10); // manually specify type
 ```
-
-# Practice mini project (Snack)
-
-Using Vite + Vue.js + TypeScript
-
-**Code**: [Click me!](https://github.com/KoryXia/Snack_TpyeScript_Practice)
-
-**Demo**: [Click me!](https://koryxia.github.io/Snack_TpyeScript_Practice/)
 
 # Reference
 
